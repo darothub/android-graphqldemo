@@ -1,0 +1,8 @@
+ext.versions = [
+
+        graphql_version              : '2.0.0',
+        jetbrain_annotation          : "13.0",
+        orhanobut                   : "2.2.0",
+
+]
+
